@@ -9,9 +9,9 @@ import Hero from './pages/hero';
 
 
 function App() {
-	
+
 	return (
-	<div>
+	<div><h1>cvjbkljgch</h1>
 	<Navbar />
 	<Hero/>
 	</div>
